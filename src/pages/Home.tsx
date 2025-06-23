@@ -40,7 +40,7 @@ const Home = () => {
                   >
                     <div className="w-full h-full rounded-full bg-white p-2">
                       <img
-                        src="/IMG_20230112_122937.jpg"
+                        src="/hero.jpg"
                         alt="Ahmed El-Gamal"
                         className="w-full h-full rounded-full object-cover shadow-2xl"
                       />

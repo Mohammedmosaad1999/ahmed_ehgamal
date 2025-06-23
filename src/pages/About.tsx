@@ -81,7 +81,7 @@ const About = () => {
             <ModernCard className="p-0 overflow-hidden">
               <div className="relative">
                 <img
-                  src="/IMG_٢٠٢٥٠٢٢٦_٠٠٥٥١٨.jpg"
+                  src="/hero.jpg"
                   alt="Ahmed El-Gamal"
                   className="w-full h-auto rounded-2xl"
                 />
